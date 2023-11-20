@@ -8,7 +8,6 @@
 #think of multiple theatres
 #reduce lies of code by using modules 
 
-#dvfbdfbbsvnjv
 
 from tkinter import *
 import sys 
