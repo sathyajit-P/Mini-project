@@ -161,7 +161,7 @@ def Jailer():
     l.grid(row=2,sticky=N)
 
 def Three_Idiots():
-    global three_idiots_screen
+    global Three_Idiots_screen
     Three_Idiots_screen=Toplevel(root)
     Three_Idiots_screen.title("Three Idiots")
     l=Label(Three_Idiots_screen,text="Select number of tickets:",font=('Çalibri',12))
